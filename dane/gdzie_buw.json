@@ -1,0 +1,87 @@
+{
+  "status": "OK",
+  "results": [
+    {
+      "formatted_address": "Dobra 56/66, Warszawa, Poland",
+      "place_id": "ChIJa5vQa1zMHkcRnD5vTrfkOx4",
+      "address_components": [
+        {
+          "long_name": "56/66",
+          "types": [
+            "street_number"
+          ],
+          "short_name": "56/66"
+        },
+        {
+          "long_name": "Dobra",
+          "types": [
+            "route"
+          ],
+          "short_name": "Dobra"
+        },
+        {
+          "long_name": "\u015ar\u00f3dmie\u015bcie",
+          "types": [
+            "sublocality_level_1",
+            "sublocality",
+            "political"
+          ],
+          "short_name": "\u015ar\u00f3dmie\u015bcie"
+        },
+        {
+          "long_name": "Warszawa",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "short_name": "Warszawa"
+        },
+        {
+          "long_name": "Warszawa",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "short_name": "Warszawa"
+        },
+        {
+          "long_name": "mazowieckie",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "short_name": "mazowieckie"
+        },
+        {
+          "long_name": "Poland",
+          "types": [
+            "country",
+            "political"
+          ],
+          "short_name": "PL"
+        }
+      ],
+      "types": [
+        "street_address"
+      ],
+      "geometry": {
+        "viewport": {
+          "southwest": {
+            "lat": 52.2410427197085,
+            "lng": 21.0230755197085
+          },
+          "northeast": {
+            "lat": 52.2437406802915,
+            "lng": 21.0257734802915
+          }
+        },
+        "location": {
+          "lat": 52.2423917,
+          "lng": 21.0244245
+        },
+        "location_type": "ROOFTOP"
+      },
+      "partial_match": true
+    }
+  ]
+}
