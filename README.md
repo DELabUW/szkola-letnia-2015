@@ -3,7 +3,7 @@ DELab UW - szkoła letnia analizy danych 2015
 
 Repozytorium zawiera materiały użyte w [Szkole Letniej Analizy Danych 2015](http://www.delab.uw.edu.pl/szkola-letnia-dane-2015/), organizowanej przez [DELab UW](http://www.delab.uw.edu.pl).
 
-Było to intensywne, 5-dniowe warsztaty, skoncentrowane na eksploracyjnej analizie i wizualizacji danych dla przedstawicieli nauk społecznych i pokrewnych. Zajęcia odbyły się w dniach 30 czerwca – 4 lipca 2015 roku, w godzinach 9:00 – 17:00.
+Były to intensywne, 5-dniowe warsztaty, skoncentrowane na eksploracyjnej analizie i wizualizacji danych dla przedstawicieli nauk społecznych i pokrewnych. Zajęcia odbywały się w dniach 30 czerwca – 4 lipca 2015 roku, w godzinach 9:00 – 17:00.
 
 Materiały zostały przygotowane dla DELab UW przez [Piotra Migdała](http://migdal.wikidot.com/) i Juliana Zubka; kierownikiem organizacyjnym był Łukasz Jonak.
 
@@ -17,21 +17,21 @@ TODO
 
 ## Dlaczego?
 
-Tradycyjne narzędzia przetwarzania i analiz danych – graficzne arkusze kalkulacyjne i pakiety statystyczne – nie zawsze dają sobie radę ze wszystkimi wyzwaniami stającymi przed badaczami. Nie chodzi tu tylko o wolumen danych, ale także o ich wielowymiarowość, zapewnienie powtarzalności procesu analiz, potrzebę generowania dużej ilości wysokiej jakości wizualizacji.
+Tradycyjne narzędzia przetwarzania i analiz danych – graficzne arkusze kalkulacyjne i pakiety statystyczne – nie zawsze dają sobie radę ze wszystkimi wyzwaniami stającymi przed badaczami. Nie chodzi tu tylko o wolumen danych, ale także o ich wielowymiarowość, zapewnienie powtarzalności procesu analiz, potrzebę generowania dużej liczby wysokiej jakości wizualizacji.
 
 
 ## Program ramowy
 
-Materiały dostępne w folderze [zajecia/](https://github.com/DELabUW/szkola-letnia-2015/tree/master/zajecia) w postaci notatników IPython Notebook. Można je oglądać w przeglądarce, by móc z nimi interagować, najlepiej [ściągnąć całe repozytorium](https://github.com/DELabUW/szkola-letnia-2015/archive/master.zip).
+Materiały są dostępne w folderze [zajecia/](https://github.com/DELabUW/szkola-letnia-2015/tree/master/zajecia) w postaci notatników IPython Notebook. Można je oglądać w przeglądarce, by móc z nimi interagować, najlepiej [ściągnąć całe repozytorium](https://github.com/DELabUW/szkola-letnia-2015/archive/master.zip).
 
 * Dzień 1
    * [podstawy Pythona, użycie IPython Notebook](zajecia/dzien1_czesc1_czym_jest_programowanie.ipynb)
    * [podstawy analizy danych w Pandas, proste wizualizacje](zajecia/dzien1_czesc2_wykresy_start.ipynb)
-   * [abecadło programistyczne, Python jako język programowania](zajecia/dzien1_czesc3_jezyk_programowani.ipynb) (cz 1)
+   * [abecadło programistyczne, Python jako język programowania](zajecia/dzien1_czesc3_jezyk_programowania.ipynb) (cz 1)
 
 * Dzień 2
-   * [abecadło programistyczne, Python jako język programowania](zajecia/dzien1_czesc3_jezyk_programowani.ipynb) (cz 2)
-   * [zabawa słownikiem języka polskiego](zajecia/dzien2_wyrazy.ipynb)
+   * [abecadło programistyczne, Python jako język programowania](zajecia/dzien2_czesc1_sterowanie_i_kolekcje.ipynb) (cz 2)
+   * [zabawa słownikiem języka polskiego](zajecia/dzien2_czesc2_wyrazy.ipynb)
 
 * Dzień 3
    * Pandas czyli tabele w Pythonie
@@ -44,7 +44,7 @@ Materiały dostępne w folderze [zajecia/](https://github.com/DELabUW/szkola-let
    * deser: [interakcja z R (w tym ggplot)](zajecia/deser_r_ggplot.ipynb)
 
 * Dzień 4
-   * [korzystani z internetowych API, elementy geocodingu](zajecia/dzien4_czesc1_api_geolokalizacja.ipynb)
+   * [korzystanie z internetowych API, elementy geocodingu](zajecia/dzien4_czesc1_api_geolokalizacja.ipynb)
    * [eksploracja danych, zaawansowane wykresy](zajecia/dzien4_czesc2_eksploracja_i_wykresy.ipynb)
    * [wstęp do modelowania liniowego](zajecia/dzien4_czesc3_regresja.ipynb)
    * deser: [przetwarzanie języka naturalnego](zajecia/deser_nlp.ipynb)
