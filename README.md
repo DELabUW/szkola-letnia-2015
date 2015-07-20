@@ -3,7 +3,7 @@ DELab UW - szkoła letnia analizy danych 2015
 
 Repozytorium zawiera materiały użyte w [Szkole Letniej Analizy Danych 2015](http://www.delab.uw.edu.pl/szkola-letnia-dane-2015/), organizowanej przez [DELab UW](http://www.delab.uw.edu.pl).
 
-Były to intensywne, 5-dniowe warsztaty, skoncentrowane na eksploracyjnej analizie i wizualizacji danych dla przedstawicieli nauk społecznych i pokrewnych. Zajęcia odbywały się w dniach 30 czerwca – 4 lipca 2015 roku, w godzinach 9:00 – 17:00.
+Były to intensywne, 5-dniowe warsztaty skoncentrowane na eksploracyjnej analizie i wizualizacji danych dla przedstawicieli nauk społecznych i pokrewnych. Zajęcia odbywały się w dniach 30 czerwca – 4 lipca 2015 roku, w godzinach 9:00 – 17:00.
 
 Materiały zostały przygotowane dla DELab UW przez [Piotra Migdała](http://migdal.wikidot.com/) i Juliana Zubka; kierownikiem organizacyjnym był Łukasz Jonak.
 
@@ -27,10 +27,10 @@ Materiały są dostępne w folderze [zajecia/](https://github.com/DELabUW/szkola
 * Dzień 1
    * [podstawy Pythona, użycie IPython Notebook](zajecia/dzien1_czesc1_czym_jest_programowanie.ipynb)
    * [podstawy analizy danych w Pandas, proste wizualizacje](zajecia/dzien1_czesc2_wykresy_start.ipynb)
-   * [abecadło programistyczne, Python jako język programowania](zajecia/dzien1_czesc3_jezyk_programowania.ipynb) (cz 1)
+   * [abecadło programistyczne, Python jako język programowania](zajecia/dzien1_czesc3_jezyk_programowania.ipynb)
 
 * Dzień 2
-   * [abecadło programistyczne, Python jako język programowania](zajecia/dzien2_czesc1_sterowanie_i_kolekcje.ipynb) (cz 2)
+   * [sterowanie skryptem, standardowe kolekcje](zajecia/dzien2_czesc1_sterowanie_i_kolekcje.ipynb)
    * [zabawa słownikiem języka polskiego](zajecia/dzien2_czesc2_wyrazy.ipynb)
 
 * Dzień 3
