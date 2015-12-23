@@ -12,7 +12,7 @@ Materiały zostały przygotowane dla DELab UW przez [Piotra Migdała](http://mig
 
 ## Licencja
 
-TODO
+Otwarta licencja [CC BY](https://creativecommons.org/licenses/by/4.0/).
 
 
 ## Dlaczego?
